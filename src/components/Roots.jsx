@@ -8,8 +8,8 @@ import Login from '../components/Login';
 
 
 const Roots = () => (
-<Router>
-<AnimatedSwitch
+<BrowserRouter>
+  <AnimatedSwitch
       atEnter={{ opacity: 0 }}
       atLeave={{ opacity: 0 }}
       atActive={{ opacity: 1 }}
@@ -19,7 +19,7 @@ const Roots = () => (
     <Route path="/cadastro" component={Cadastro} />
     <Route path="/login" component={Login} />
     </AnimatedSwitch>
-</Router>
+</BrowserRouter>
 
 )
 
