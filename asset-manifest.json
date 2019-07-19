@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.ea723344.chunk.css",
+    "main.js": "/React/static/js/main.eb4fc900.chunk.js",
+    "main.js.map": "/React/static/js/main.eb4fc900.chunk.js.map",
+    "runtime~main.js": "/React/static/js/runtime~main.d53f88d2.js",
+    "runtime~main.js.map": "/React/static/js/runtime~main.d53f88d2.js.map",
+    "static/js/2.254d5a14.chunk.js": "/React/static/js/2.254d5a14.chunk.js",
+    "static/js/2.254d5a14.chunk.js.map": "/React/static/js/2.254d5a14.chunk.js.map",
+    "index.html": "/React/index.html",
+    "precache-manifest.db647f97a2a6e097aa6ae4536bc08b11.js": "/React/precache-manifest.db647f97a2a6e097aa6ae4536bc08b11.js",
+    "service-worker.js": "/React/service-worker.js",
+    "static/css/main.ea723344.chunk.css.map": "/React/static/css/main.ea723344.chunk.css.map",
+    "static/media/arrow.png": "/React/static/media/arrow.485c1fea.png",
+    "static/media/index.css": "/React/static/media/background1.76b4418b.jpg",
+    "static/media/cadastro.jpg": "/React/static/media/cadastro.084e30d1.jpg",
+    "static/media/dog.jpg": "/React/static/media/dog.cc730595.jpg",
+    "static/media/slide-1.jpg": "/React/static/media/slide-1.dc0d0191.jpg",
+    "static/media/slide-2.jpg": "/React/static/media/slide-2.23cad2d6.jpg"
+  }
+}
