@@ -8,7 +8,7 @@ import Login from '../components/Login';
 
 
 const Roots = () => (
-<Router>
+<Router basename="React">
 <AnimatedSwitch
       atEnter={{ opacity: 0 }}
       atLeave={{ opacity: 0 }}
