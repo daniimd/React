@@ -1,0 +1,91 @@
+{
+  "wscontatos": [
+    {
+      "type": "usuario",
+      "nome": "",
+      "cpf": "470.100.978-44",
+      "email": "",
+      "endereco": "",
+      "senha": "342",
+      "id": 1
+    },
+    {
+      "type": "usuario",
+      "nome": "",
+      "cpf": "470.100.978-44",
+      "email": "",
+      "endereco": "",
+      "senha": "342",
+      "id": 2
+    },
+    {
+      "type": "usuario",
+      "nome": "",
+      "cpf": "470.100.978-44",
+      "email": "",
+      "endereco": "",
+      "senha": "342",
+      "id": 3
+    },
+    {
+      "type": "usuario",
+      "nome": "",
+      "cpf": "470.100.978-44",
+      "email": "",
+      "endereco": "",
+      "senha": "",
+      "id": 4
+    },
+    {
+      "type": "usuario",
+      "nome": "we",
+      "cpf": "470.100.978-44",
+      "email": "34",
+      "endereco": "",
+      "senha": "34",
+      "id": 5
+    },
+    {
+      "type": "usuario",
+      "nome": "we",
+      "cpf": "470.100.978-44",
+      "email": "67",
+      "endereco": "",
+      "senha": "56",
+      "id": 6
+    },
+    {
+      "type": "usuario",
+      "nome": "353",
+      "cpf": "470.100.978-44",
+      "email": "345",
+      "endereco": "",
+      "senha": "345",
+      "id": 7
+    },
+    {
+      "type": "usuario",
+      "nome": "35",
+      "cpf": "470.100.978-44",
+      "senha": "345",
+      "email": "345",
+      "id": 8
+    },
+    {
+      "type": "usuario",
+      "nome": "132",
+      "cpf": "470.100.978-44",
+      "senha": "123",
+      "email": "danii__martins@hotmail.com",
+      "id": 9
+    },
+    {
+      "type": "ong",
+      "nome": "23",
+      "cpf": "470.100.978-44",
+      "senha": "234",
+      "email": "234",
+      "id": 10
+    }
+  ]
+}
