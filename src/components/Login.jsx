@@ -2,7 +2,7 @@ import React from 'react';
 import '../assets/styles/cadastro.css';
 import dog from '../assets/images/dog.jpg';
 import arrow from '../assets/images/arrow.png';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import InputMask from 'react-input-mask';
 
 class Login extends React.Component {

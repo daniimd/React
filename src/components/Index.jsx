@@ -4,7 +4,7 @@ import Slider from 'react-slick';
 import icon1 from '../assets/images/slide-1.jpg';
 import icon2 from '../assets/images/slide-2.jpg';
 import '../assets/styles/index.css';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const settings = {
   dots: false,
