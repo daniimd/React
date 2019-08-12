@@ -1,32 +1,6 @@
 {
   "wscontatos": [
 <<<<<<< HEAD
-    {
-      "type": "usuario",
-      "nome": "Leona",
-      "cpf": "999.999.999-99",
-      "email": "leona@",
-      "senha": "leona1",
-      "id": 1
-    },
-    {
-      "type": "usuario",
-      "nome": "Daniela Martins",
-      "cpf": "777.777.777-77",
-      "email": "dani@",
-      "senha": "dani1",
-      "id": 2
-    },
-    {
-      "type": "usuario",
-      "nome": "Teste",
-      "cpf": "666.666.666-66",
-      "email": "teste",
-      "senha": "teste",
-      "id": 3
-    }
-=======
-
->>>>>>> 31b134574484ee62936ca0e0af959b7ee2fb5b25
+   
   ]
 }
