@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "713373f5e95e3e0f5926cf6a11d2b668",
+    "revision": "7dbbd4ddce48272a4a11866e38072030",
     "url": "/React/index.html"
   },
   {
-    "revision": "f2792ada3e0179cbde61",
-    "url": "/React/static/css/main.8d3ac191.chunk.css"
+    "revision": "9badf9f9f69ea95bf0eb",
+    "url": "/React/static/css/main.08647406.chunk.css"
   },
   {
-    "revision": "fa479b697a8687e2c0cd",
-    "url": "/React/static/js/2.6a2ba031.chunk.js"
+    "revision": "528b3a3ec15c85f7c52e",
+    "url": "/React/static/js/2.c55f80a7.chunk.js"
   },
   {
-    "revision": "f2792ada3e0179cbde61",
-    "url": "/React/static/js/main.12088ec2.chunk.js"
+    "revision": "9badf9f9f69ea95bf0eb",
+    "url": "/React/static/js/main.d800eff0.chunk.js"
   },
   {
     "revision": "283b01c4b2c734b504b3",
@@ -34,6 +34,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc730595b6860a1aa6d1662bce5b938f",
     "url": "/React/static/media/dog.cc730595.jpg"
+  },
+  {
+    "revision": "d8915d8733e94b01d638c7ecb4efc367",
+    "url": "/React/static/media/gato.d8915d87.jpg"
+  },
+  {
+    "revision": "f83302540d5ead527c084eb1f61b54c8",
+    "url": "/React/static/media/paw.f8330254.png"
+  },
+  {
+    "revision": "0a1ac9ed3592ab6b01a60af1f0f787cf",
+    "url": "/React/static/media/sexo.0a1ac9ed.png"
   },
   {
     "revision": "dc0d0191edc3dfb7b2d5d5355e5cb52e",
